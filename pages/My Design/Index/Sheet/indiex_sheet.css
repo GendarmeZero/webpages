@@ -4,33 +4,58 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
+
 main {
-    background-color: beige;
-    width: 500px;
     
+    width: 500px;
+    height: 500px;
+
+
+
 }
+
 h1 {
     text-align: center;
-    color: #ea4e1e;
+    color: #f3d22e;
+    font-size: 3em;
+
+
 }
 
+#h2a {
+    color: #490206;
+    width: 700px;
+    height: 50px;
 
+}
+#hr01 {
+    width: 550px;
+    height: 1px;
+    background-color: #96a027;
+}
 
 #article01 {
     background-color: rgba(240, 248, 255, 0.676);
     font-family: "Alkatra", system-ui;
     font-size: 20px;
     width: 680px;
-    height: 250px;
+    height: 280px;
     padding: 25px;
-    background-image: url(/pages/My\ Design/index/assets/images/articlebg001.png);
+    background-image: url(/pages/My\ Design/index/assets/images/laptop.gif), url(/pages/My\ Design/index/assets/images/Smiley01.gif), url(/pages/My\ Design/index/assets/images/articlebg001.png);
+    background-position: 244px bottom, 600px bottom, right bottom;
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-size: 80px, 130px, auto;
 
-    
+
+
+
 }
+
 #h2a1 {
     color: #490206;
-     width: 500px;
+    width: 500px;
 
 }
 
@@ -46,9 +71,28 @@ h1 {
     text-align: center;
     border-radius: 5px;
 
+
 }
 
 #indexlist01 {
     color: #490206;
-     width: 500px;
+    width: 500px;
+
+
+}
+
+#indexlist01 a {
+    text-decoration: none;
+    color: #490206;
+
+}
+
+#logo01 {
+    padding-left: 700px;
+}
+
+#logo01 img {
+    height: 200px;
+    width: 200px;
+
 }
