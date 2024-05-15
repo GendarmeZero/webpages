@@ -7,4 +7,3 @@ On the index page, you can see all my tasks, projects, and other activities I ha
 Feel free to look around and see what I have made so far. :)
 
 ![coding](https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif)
->>>>>>> 463eb4f2580831de07ebdc5596db55e988f11d5f
